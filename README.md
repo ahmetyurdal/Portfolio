@@ -106,4 +106,4 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 * **Ad-Soyad**: Ahmet Yurdal
 * **Şirket**: Yurdalsoftware
 * **E-Posta**: yurdsoft@gmail.com
-* **GitHub**: [@AhmetM125](https://github.com/AhmetM125)
+* **GitHub**: [@ahmetyurdal](https://github.com/ahmetyurdal)
